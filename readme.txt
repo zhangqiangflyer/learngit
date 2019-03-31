@@ -13,4 +13,5 @@ test update 3
 
 creating a new branch is quick
 
-creating a new branch is quick and simple1.
+creating a new branch is quick and simple.
+
