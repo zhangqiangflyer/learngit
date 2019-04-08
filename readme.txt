@@ -20,3 +20,4 @@ git fast forward
 test fast forward
 
 test dev push
+test dev pull
