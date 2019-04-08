@@ -19,3 +19,5 @@ git fast forward
 
 test fast forward
 
+test bug for status
+
