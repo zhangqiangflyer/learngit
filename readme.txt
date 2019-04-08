@@ -15,5 +15,7 @@ creating a new branch is quick
 
 creating a new branch is quick and simple.
 
-git fast forward111
+git fast forward
+
+test fast forward
 
